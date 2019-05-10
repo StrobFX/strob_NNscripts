@@ -1,0 +1,141 @@
+/bin/sh: 1: komodo-cli: not found
+/bin/sh: 1: komodo-cli: not found
+/bin/sh: 1: komodo-cli: not found
+/bin/sh: 1: komodo-cli: not found
+/bin/sh: 1: ./komodo-cli: not found
+/bin/sh: 1: ./komodo-cli: not found
+{
+  "total_transactons": 57,
+  "remaining_transactons": 34,
+  "removed_transactions": 23
+}
+{
+  "total_transactons": 49,
+  "remaining_transactons": 14,
+  "removed_transactions": 35
+}
+{
+  "total_transactons": 28,
+  "remaining_transactons": 15,
+  "removed_transactions": 13
+}
+{
+  "total_transactons": 28,
+  "remaining_transactons": 13,
+  "removed_transactions": 15
+}
+{
+  "total_transactons": 26,
+  "remaining_transactons": 12,
+  "removed_transactions": 14
+}
+{
+  "total_transactons": 27,
+  "remaining_transactons": 20,
+  "removed_transactions": 7
+}
+{
+  "total_transactons": 33,
+  "remaining_transactons": 18,
+  "removed_transactions": 15
+}
+{
+  "total_transactons": 28,
+  "remaining_transactons": 14,
+  "removed_transactions": 14
+}
+{
+  "total_transactons": 24,
+  "remaining_transactons": 10,
+  "removed_transactions": 14
+}
+{
+  "total_transactons": 25,
+  "remaining_transactons": 25,
+  "removed_transactions": 0
+}
+{
+  "total_transactons": 29,
+  "remaining_transactons": 29,
+  "removed_transactions": 0
+}
+{
+  "total_transactons": 38,
+  "remaining_transactons": 10,
+  "removed_transactions": 28
+}
+{
+  "total_transactons": 17,
+  "remaining_transactons": 17,
+  "removed_transactions": 0
+}
+{
+  "total_transactons": 27,
+  "remaining_transactons": 27,
+  "removed_transactions": 0
+}
+{
+  "total_transactons": 40,
+  "remaining_transactons": 25,
+  "removed_transactions": 15
+}
+{
+  "total_transactons": 35,
+  "remaining_transactons": 14,
+  "removed_transactions": 21
+}
+{
+  "total_transactons": 21,
+  "remaining_transactons": 14,
+  "removed_transactions": 7
+}
+{
+  "total_transactons": 20,
+  "remaining_transactons": 20,
+  "removed_transactions": 0
+}
+{
+  "total_transactons": 25,
+  "remaining_transactons": 25,
+  "removed_transactions": 0
+}
+{
+  "total_transactons": 27,
+  "remaining_transactons": 27,
+  "removed_transactions": 0
+}
+{
+  "total_transactons": 32,
+  "remaining_transactons": 10,
+  "removed_transactions": 22
+}
+{
+  "total_transactons": 16,
+  "remaining_transactons": 16,
+  "removed_transactions": 0
+}
+{
+  "total_transactons": 24,
+  "remaining_transactons": 17,
+  "removed_transactions": 7
+}
+{
+  "total_transactons": 25,
+  "remaining_transactons": 25,
+  "removed_transactions": 0
+}
+{
+  "total_transactons": 33,
+  "remaining_transactons": 5,
+  "removed_transactions": 28
+}
+{
+  "total_transactons": 14,
+  "remaining_transactons": 14,
+  "removed_transactions": 0
+}
+{
+  "total_transactons": 2,
+  "remaining_transactons": 1,
+  "removed_transactions": 1
+}
