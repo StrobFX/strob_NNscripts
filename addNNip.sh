@@ -1,5 +1,5 @@
 #!/bin/bash
-file="$HOME/2019NNtestnet/iguana/m_notary_testnet"
+file="$HOME/komodo_script_strobFX/iplist"
 while IFS= read -r line
 do
     ip=$( echo $line | grep addnotary | sed 's/[{}]//g' | sed 's_\\__g' | sed 's_"__g' | sed 's=curl --url http://127.0.0.1:7776 --data agent:iguana,method:addnotary,ipaddr:==')
