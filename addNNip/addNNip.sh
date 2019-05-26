@@ -1,5 +1,5 @@
 #!/bin/bash
-file="$HOME/komodo_script_strobFX/iplistADD"
+file="$HOME/komodo_script_strobFX/iplistADD.txt"
 while IFS= read -r line
 do
     ip=$( echo $line )
