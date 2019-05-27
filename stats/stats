@@ -19,7 +19,7 @@ txscanamount=777
 #ignoreacs=('VOTE2018' 'BEER' 'PIZZA')
 
 #Full path to komodo-cli
-komodoexec=/usr/local/bin/komodo-cli
+komodoexec=$HOME/komodo/src/komodo-cli
 
 #git checking - path and remote branch
 declare -A repos=(
