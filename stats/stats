@@ -152,7 +152,7 @@ outputstats ()
             "$(ls -lh ~/.komodo/wallet.dat  | awk '{print $5}')" \
             "$(echo $kmdtxinfo | jq '[.[] | select(.generated==true)] | length') mined"
 
-    for coins in "${othercoins[@]}"; do
+#    for coins in "${othercoins[@]}"; do
 #        coin=($coins)
 #
 #        case ${coin[0]} in
